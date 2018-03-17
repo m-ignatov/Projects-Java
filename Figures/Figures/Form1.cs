@@ -11,7 +11,7 @@ namespace Figures
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             if (this.comboBox1.SelectedItem.Equals("Правоъгълник"))
             {
