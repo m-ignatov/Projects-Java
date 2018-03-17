@@ -16,11 +16,11 @@ namespace English_Words
             while ((list[size] = file.ReadLine()) != null) System.Console.WriteLine(list[size++]);
             file.Close();
 
-            generateWord();
+            GenerateWord();
         }
 
 
-        void check()
+        void Check()
         {
             if (fromBG == 1)
             {
@@ -32,24 +32,24 @@ namespace English_Words
             }
         }
 
-        void generateWord()
+        void GenerateWord()
         {
             br++;
             Random r = new Random();
             ind = r.Next(0, size);
-            check();
+            Check();
 
             while (used[ind])
             {
                 ind = r.Next(0, size);
-                check();
+                Check();
             }
 
             used[ind] = true;
             placeholdLabel.Text = list[ind];
         }
 
-        void swap(Label a, Label b)
+        void Swap(Label a, Label b)
         {
             string tmp = a.Text;
             a.Text = b.Text;
@@ -57,19 +57,19 @@ namespace English_Words
         }
 
 
-        private void swapBox_MouseHover(object sender, EventArgs e)
+        private void SwapBox_MouseHover(object sender, EventArgs e)
         {
             swapBox.Image = English_Words.Properties.Resources.swap_click;
         }
 
-        private void swapBox_MouseLeave(object sender, EventArgs e)
+        private void SwapBox_MouseLeave(object sender, EventArgs e)
         {
             swapBox.Image = English_Words.Properties.Resources.swap;
         }
 
-        private void swapBox_Click(object sender, EventArgs e)
+        private void SwapBox_Click(object sender, EventArgs e)
         {
-            swap(bgLabel, enLabel);
+            Swap(bgLabel, enLabel);
             fromBG ^= 1;
 
             br = 0;
@@ -80,10 +80,10 @@ namespace English_Words
             textBox.Focus();
             nextButton.Enabled = false;
             textBox.Clear();
-            generateWord();
+            GenerateWord();
         }
 
-        private void nextButton_Click(object sender, EventArgs e)
+        private void NextButton_Click(object sender, EventArgs e)
         {
             if (br >= size / 2)
             {
@@ -96,10 +96,10 @@ namespace English_Words
             textBox.Focus();
             nextButton.Enabled = false;
             textBox.Clear();
-            generateWord();
+            GenerateWord();
         }
 
-        private void textBox_TextChanged(object sender, EventArgs e)
+        private void TextBox_TextChanged(object sender, EventArgs e)
         {
             i = ind;
             if (fromBG == 1) i--;

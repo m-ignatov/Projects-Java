@@ -88,9 +88,9 @@
             this.swapBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.swapBox.TabIndex = 3;
             this.swapBox.TabStop = false;
-            this.swapBox.Click += new System.EventHandler(this.swapBox_Click);
-            this.swapBox.MouseLeave += new System.EventHandler(this.swapBox_MouseLeave);
-            this.swapBox.MouseHover += new System.EventHandler(this.swapBox_MouseHover);
+            this.swapBox.Click += new System.EventHandler(this.SwapBox_Click);
+            this.swapBox.MouseLeave += new System.EventHandler(this.SwapBox_MouseLeave);
+            this.swapBox.MouseHover += new System.EventHandler(this.SwapBox_MouseHover);
             // 
             // placeholdLabel
             // 
@@ -111,7 +111,7 @@
             this.nextButton.TabIndex = 5;
             this.nextButton.Text = "Next";
             this.nextButton.UseVisualStyleBackColor = true;
-            this.nextButton.Click += new System.EventHandler(this.nextButton_Click);
+            this.nextButton.Click += new System.EventHandler(this.NextButton_Click);
             // 
             // textBox
             // 
@@ -119,7 +119,7 @@
             this.textBox.Name = "textBox";
             this.textBox.Size = new System.Drawing.Size(253, 43);
             this.textBox.TabIndex = 6;
-            this.textBox.TextChanged += new System.EventHandler(this.textBox_TextChanged);
+            this.textBox.TextChanged += new System.EventHandler(this.TextBox_TextChanged);
             // 
             // checkBox
             // 
