@@ -10,7 +10,7 @@ namespace Guess_The_Number
             InitializeComponent();
         }
 
-        private void guessButton_Click(object sender, EventArgs e)
+        private void GuessButton_Click(object sender, EventArgs e)
         {
             int sum = 0;
 

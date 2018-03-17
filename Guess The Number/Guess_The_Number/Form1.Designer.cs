@@ -57,7 +57,7 @@
             this.guessButton.TabIndex = 2;
             this.guessButton.Text = "Познай!";
             this.guessButton.UseVisualStyleBackColor = true;
-            this.guessButton.Click += new System.EventHandler(this.guessButton_Click);
+            this.guessButton.Click += new System.EventHandler(this.GuessButton_Click);
             // 
             // pictureBox1
             // 
@@ -181,6 +181,7 @@
             this.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.MaximizeBox = false;
             this.Name = "Form1";
+            this.Text = "Познай Числото!";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
