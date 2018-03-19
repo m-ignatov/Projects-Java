@@ -55,7 +55,7 @@
             this.generateButton.TabIndex = 1;
             this.generateButton.Text = "Генерирай";
             this.generateButton.UseVisualStyleBackColor = true;
-            this.generateButton.Click += new System.EventHandler(this.generateButton_Click);
+            this.generateButton.Click += new System.EventHandler(this.GenerateButton_Click);
             // 
             // listBox1
             // 

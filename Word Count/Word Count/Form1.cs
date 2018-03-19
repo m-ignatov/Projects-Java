@@ -11,7 +11,7 @@ namespace Word_Count
             this.ActiveControl = richTextBox1;
         }
 
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        private void RichTextBox1_TextChanged(object sender, EventArgs e)
         {
             String text = richTextBox1.Text;
 
@@ -27,6 +27,7 @@ namespace Word_Count
                     flag = true;
                     index++;
                 }
+
                 if (flag)
                 {
                     wordCount++;
@@ -36,7 +37,7 @@ namespace Word_Count
             label1.Text = "Words: " + wordCount;
         }
 
-        private void enterButton_Click(object sender, EventArgs e)
+        private void EnterButton_Click(object sender, EventArgs e)
         {
             if (richTextBox1.Text.Trim().Length > 0)
             {
@@ -49,12 +50,12 @@ namespace Word_Count
                     t += s[i];
                 }
                 MessageBox.Show("Reversed Text:\n" + t, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
-                clearButton_Click(sender, e);
+                ClearButton_Click(sender, e);
             }
         }
 
-        private void clearButton_Click(object sender, EventArgs e)
-        { 
+        private void ClearButton_Click(object sender, EventArgs e)
+        {
             richTextBox1.Clear();
             label1.Text = "Words: 0";
         }

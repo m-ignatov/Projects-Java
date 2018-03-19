@@ -52,7 +52,7 @@
             this.clearButton.TabIndex = 2;
             this.clearButton.Text = "Clear";
             this.clearButton.UseVisualStyleBackColor = true;
-            this.clearButton.Click += new System.EventHandler(this.clearButton_Click);
+            this.clearButton.Click += new System.EventHandler(this.ClearButton_Click);
             // 
             // richTextBox1
             // 
@@ -61,7 +61,7 @@
             this.richTextBox1.Size = new System.Drawing.Size(398, 160);
             this.richTextBox1.TabIndex = 3;
             this.richTextBox1.Text = "";
-            this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
+            this.richTextBox1.TextChanged += new System.EventHandler(this.RichTextBox1_TextChanged);
             // 
             // enterButton
             // 
@@ -71,7 +71,7 @@
             this.enterButton.TabIndex = 4;
             this.enterButton.Text = "Enter";
             this.enterButton.UseVisualStyleBackColor = true;
-            this.enterButton.Click += new System.EventHandler(this.enterButton_Click);
+            this.enterButton.Click += new System.EventHandler(this.EnterButton_Click);
             // 
             // Form1
             // 
