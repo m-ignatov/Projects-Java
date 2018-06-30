@@ -1,0 +1,10 @@
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.Form1.resources
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\m_ign\Documents\GitHub\My-Projects\Figures\Figures\obj\Debug\Figures.pdb

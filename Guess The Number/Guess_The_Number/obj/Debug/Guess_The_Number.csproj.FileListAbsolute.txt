@@ -1,0 +1,10 @@
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\bin\Debug\Guess_The_Number.exe.config
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\bin\Debug\Guess_The_Number.exe
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\bin\Debug\Guess_The_Number.pdb
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.csprojResolveAssemblyReference.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.Form1.resources
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.Properties.Resources.resources
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.csproj.GenerateResource.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.csproj.CoreCompileInputs.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.exe
+C:\Users\m_ign\Documents\GitHub\My-Projects\Guess The Number\Guess_The_Number\obj\Debug\Guess_The_Number.pdb

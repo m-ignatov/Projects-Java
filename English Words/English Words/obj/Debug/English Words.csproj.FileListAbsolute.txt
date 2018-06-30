@@ -1,0 +1,11 @@
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\bin\Debug\data.txt
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\bin\Debug\English Words.exe.config
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\bin\Debug\English Words.exe
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\bin\Debug\English Words.pdb
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English Words.csprojResolveAssemblyReference.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English_Words.Form1.resources
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English_Words.Properties.Resources.resources
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English Words.csproj.GenerateResource.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English Words.csproj.CoreCompileInputs.cache
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English Words.exe
+C:\Users\m_ign\Documents\GitHub\My-Projects\English Words\English Words\obj\Debug\English Words.pdb
